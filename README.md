@@ -125,15 +125,15 @@
 | 프론트엔드 | React, TypeScript, SASS, Axios          |
 | 백엔드     | NestJS, TypeScript, TypeORM, PostgreSQL |
 
-<img src="https://gist.github.com/assets/110762136/69f1162a-f5dc-41a4-bef8-fc1d43529137" alt='Tech Stack' width="400" height="206"/>
+<img src="https://github.com/LEEJW1953/honja-jeju/assets/110762136/aba9c042-e0fb-4598-9df8-a7464e78c7e1" alt='Tech Stack' width="400" height="206"/>
 
 <br>
-x`
+
 ### :art:Figma
 
 [**Figma 보러가기**:arrow_forward:](https://www.figma.com/file/Nguyx3SVG4AOKmq6s26MPT/%ED%98%BC%EC%9E%90%EC%98%B5%EC%84%9C%EC%98%88?type=design&node-id=0%3A1&mode=design&t=5bxozBGXkF6s318W-1)
 
-<img src="https://gist.github.com/assets/110762136/d02af307-0231-48c3-b54a-dc0d0d9eb5cb" alt='Figma' width="400" height="343"/>
+<img src="https://github.com/LEEJW1953/honja-jeju/assets/110762136/b8388e3b-8b10-4ac4-b51e-ba8206c095dc" alt='Figma' width="400" height="343"/>
 
 <br>
 
@@ -141,13 +141,13 @@ x`
 
 [**ERD 보러가기**:arrow_forward:](https://www.erdcloud.com/d/evftoxqvi3z6B6og4)
 
-<img src="https://gist.github.com/assets/110762136/73840e1e-7fb7-4f83-aa63-4ebf9c3519da" alt='ERD' width="400" height="271"/>
+<img src="https://github.com/LEEJW1953/honja-jeju/assets/110762136/443342d0-0914-4e46-8962-481f2b84b145" alt='ERD' width="400" height="271"/>
 
 <br>
 
 ### :page_with_curl:API 문서
 
-<img src="https://gist.github.com/assets/110762136/9112bc2e-541b-4090-afcd-fbb22e51814f" alt='API Doc' width="400" height="239"/>
+<img src="https://github.com/LEEJW1953/honja-jeju/assets/110762136/e6b227c4-8c2a-4e6f-9d03-f21c4af7a65b" alt='API Doc' width="400" height="239"/>
 
 <br>
 
@@ -163,40 +163,38 @@ x`
 
 - 메인 페이지
 
-<img src="https://gist.github.com/assets/110762136/82cc52f9-da77-4388-9ec7-742fa5dad04e" alt='main' width="450" height="220"/>
+<img src="https://github.com/LEEJW1953/honja-jeju/assets/110762136/449da278-a9ef-4225-bcc5-15fb89f58191" alt='main' width="450" height="220"/>
 
 <br>
 
 - 여행 목적지 페이지
 
-<img src="https://gist.github.com/assets/110762136/99708292-2ea7-40c4-af78-e5f0cf261de8" alt='destinationsList' width="450" height="220"/>
+<img src="https://github.com/LEEJW1953/honja-jeju/assets/110762136/95be44d8-6103-40f3-8c96-537ce88eb4f9" alt='destinationsList' width="450" height="220"/>
 
 <br>
 
 - 여행 일정 목록 페이지
 
-<img src="https://gist.github.com/assets/110762136/77c51480-b478-4706-a3df-7475906f6c22" alt='trip schedules' width="450" height="220"/>
-
-<br>
-
-- 여행 일정 관리 페이지
-
-<img src="https://gist.github.com/assets/110762136/99cbd235-d0e8-4741-b8f4-5e0b9e38ad07" alt='schedule management' width="450" height="220"/>
+<img src="https://github.com/LEEJW1953/honja-jeju/assets/110762136/34d29f8a-4f80-41e7-a3a6-fec4af4b14a7" alt='trip schedules' width="450" height="220"/>
 
 <br>
 
 - 여행 일정 추가
 
-<img src="https://gist.github.com/assets/110762136/bf6a49bc-8995-4fb8-a882-f91a1d5b45e1" alt='add Destinations' width="450" height="220"/>
+<img src="https://github.com/LEEJW1953/honja-jeju/assets/110762136/dc42f52c-b2e7-4389-95e2-fb49e3cba7a0" alt='add schedule' width="450" height="220"/>
+
+<br>
+
+<img src="https://github.com/LEEJW1953/honja-jeju/assets/110762136/4ce6788c-9481-469d-8f81-29c7021c514a" alt='add schedule' width="450" height="220"/>
 
 <br>
 
 - 회원가입 / 로그인
 
-<img src="https://gist.github.com/assets/110762136/ac09962e-ac4c-4fee-a057-9da7e5736337" alt='Join and Login' width="450" height="220"/>
+<img src="https://github.com/LEEJW1953/honja-jeju/assets/110762136/08c12027-87eb-4cfc-af43-110b1a97ff27" alt='Join and Login' width="450" height="220"/>
 
 <br>
 
 - 회원 정보 수정 / 탈퇴
 
-<img src="https://gist.github.com/assets/110762136/3c108e0b-ab64-4e2e-bf37-c60ceda507e3" alt='Modifying User Info' width="450" height="220"/>
+<img src="https://github.com/LEEJW1953/honja-jeju/assets/110762136/0f0ff533-5600-4e15-a2fd-45e5ee26dc76" alt='Modifying User Info' width="450" height="220"/>
